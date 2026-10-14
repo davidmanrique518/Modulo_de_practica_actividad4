@@ -78,7 +78,8 @@ server.on('error', (error) => {
 
 * De esta manera fue como finalmente se logro ver la pagina web <http://localhost:3000/> con todo el sitema de entrelazamiento de la consola y el servidor y errores de codigo corregidos para que funcionara correctamente.
 
-PAGINA WEB CON FALLOS:
+## PAGINA WEB CON FALLOS
+
 ![Pagina_Web_Con_Fallos](./Paginawebconerror.png)
 
 * De esta manera salia la pagina web <http://localhost:3000/> presentando un error por algo mal escrito en la terminal de VS CODE o por el entrelazamiento de la consola y el servidor.
